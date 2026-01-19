@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-stack Developer <br>   ⚡ Fun fact: There is great fortune in today!
+Full-stack Developer <br>   <br> There is great fortune in today!
 
 
 ### ✍️ Dev Quote
